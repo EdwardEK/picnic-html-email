@@ -1,27 +1,12 @@
 # The Picnic Cafe 
 
 ## HTML EMAIL
-Created and designed promotional email project for local cafe in Nashville, TN.
+Promotional email created and designed for a local eatery in Nashville, TN.
 
-## Main objective 
-Create a clean and coherent design that embodies what the business stands for including color scheme, typeface, and general structure. The Picnic Cafe has stunning charm with its "picnic-style" embellishments and is a cherished Nashville go-to for many. There are no "bells and whistles" in terms of how they market or promote the cafe. I didn't want to take away from their core values of being traditional. 
-
-## Workflow / Process 
-Research, competitive analysis, design, code, modify, test, and deploy. 
-
-## Skills and Tools Used 
-
-#### Responsive layout 
-Using HTML and internal/inline CSS languages with dark mode enabled feature.
-
-#### Photoshop and Illustrator 
-To create and enhance graphics including images, logos, and color coordination between elements in the project and existing business website and social media.
-
-#### Email testing, structure, and layout
-With Litmus platform and Visual Studio Code. 
-
-## Obstacles 
-The Picnic's website is not updated so utilizing images, content, etc. was a small challenge. However, diving deeper into social media, related articles, and being in communication with one of the owners I was then able to find and create material to use. 
-
-## What I gained 
-Developed skills within a different platform and structure in terms of coding and design. Creating a cohesive layout and design that embodies the business/client. 
+## Overview 
+•Staying true to branding and the business's core values, I designed and coded the email using the companies complementary color scheme of white and blue, which provides a strong contrast. When determining the font, I chose Libre Baskerville as it embodies the business's branding and works well for reading on screen.
+ 
+• The layout is designed to flow throughout and coded with multiple links that the user can navigate to their website, related articles, and the menu. Content and images were crafted and optimized to be approachable while using sale tactics. Embedded in the code is a dark mode feature which reduces eye strain.
+ 
+## Technologies
+Adobe Creative Suite, HTML, CSS, Git, GitHub, Visual Studio Code, Litmus, social media integration
